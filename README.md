@@ -46,4 +46,4 @@ to be a zip file though) by editing the source code near the bottom.
 ## TODOs
 
 * Accept file input path through args
-* Just create / just convert images through file paths
+* Just create / just convert images through args
