@@ -35,7 +35,7 @@ Download `zip2pic.py` either through git clone or directly from GitHub.
    work by creating `final.zip` from the pictures, which should be identical to
    the `Archive.zip` you started with. 
 3. When you want to convert back to the file, get all of the files in a
-   directory named `images`, and the files must be kept in order via there file
+   directory named `images`, and the files must be kept in order via the file
    name. Then run just `convert_from_pictures(img_dir)` with your image
    directory name.
 
