@@ -47,3 +47,4 @@ to be a zip file though) by editing the source code near the bottom.
 
 * Accept file input path through args
 * Just create / just convert images through args
+* Multi-core generation of images and files
